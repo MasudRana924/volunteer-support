@@ -1,0 +1,25 @@
+.image{
+    width:180px;
+}
+.link a{
+    text-decoration: none;
+    color:black;
+    font-size: large;
+    font-weight: 600;
+   padding-left: 10px;
+   text-align: start;
+}
+
+.register-button{
+    background-color: #FF5733 ;
+    border: #FF5733;
+    color:white;
+    height:35px;
+    margin-right: 10px;
+}
+.login-button{
+    background-color: Maroon ;
+    border:Maroon ;
+    color:white;
+    height:35px;
+}

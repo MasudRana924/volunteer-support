@@ -1,0 +1,32 @@
+[
+    {
+      "key": "ch-support",
+      "title": "Children Support",
+      "img": "https://img.freepik.com/free-photo/full-shot-african-boy-outdoors_23-2148860398.jpg?size=338&ext=jpg"
+    },
+    {
+      "key": "f-support",
+      "title": "Forest Support",
+      "img": "https://image.freepik.com/free-photo/whitetail-deer-standing-autumn-wood_167946-143.jpg"
+    },
+    {
+      "key": "c-water",
+      "title": "Clean Water",
+      "img": "https://img.freepik.com/free-photo/african-woman-pouring-water-recipient-outdoors_23-2149021909.jpg?size=338&ext=jpg"
+    },
+    {
+      "key": "e-support",
+      "title": "Educational Support",
+      "img": "https://image.freepik.com/free-photo/book-with-green-board-background_1150-3837.jpg"
+    },
+    {
+      "key": "f-charity",
+      "title": "Food Charity",
+      "img": "https://image.freepik.com/free-photo/baked-chicken-wings-asian-style_2829-10159.jpg"
+    },
+    {
+      "key": "a-support",
+      "title": "Animal Rescue",
+      "img": "https://image.freepik.com/free-photo/cute-young-capuchin-monkey-eating-yellow-fruit-looking-side_181624-50941.jpg"
+    }
+  ]

@@ -1,0 +1,15 @@
+.events-container{
+    background-color:#f0f2f5;
+}
+.input{
+    width:80%;
+   outline: none;
+    border:1px solid rgb(145, 99, 13);
+    height:30px;
+}
+.search-button{
+    background-color: cornflowerblue;
+    border:cornflowerblue;
+    color: white;
+    height:32px;
+}
